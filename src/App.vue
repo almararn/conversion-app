@@ -176,7 +176,7 @@ export default {
   opacity: 0.3;
 }
 .img4 {
-  position: fixed;
+  position: absolute;
   left: 40%;
   max-height: 150px;
   margin-left: 20px;
