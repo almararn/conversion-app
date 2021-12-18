@@ -121,6 +121,8 @@ export default {
         this.currencyValue = item.currencyValue
         this.selectedValue = item.value
         this.selectedCurrency = item.currency
+        this.selectedProvider = item.provider
+        this.calculate()
       }
     },
   },
