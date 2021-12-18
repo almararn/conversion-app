@@ -157,19 +157,19 @@ export default {
   width: 250px;
 }
 .img1 {
-  position: fixed;
+  position: absolute;
   left: 48%;
   max-height: 220px;
   margin-left: 140px;
   opacity: 0.3;
 }
 .img2 {
-  position: fixed;
+  position: absolute;
   max-height: 220px;
   margin-left: 140px;
 }
 .img3 {
-  position: fixed;
+  position: absolute;
   left: 20%;
   max-height: 150px;
   margin-left: 20px;
