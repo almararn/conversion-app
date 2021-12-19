@@ -172,14 +172,14 @@ export default {
   position: absolute;
   left: 20%;
   max-height: 150px;
-  margin-left: 20px;
+  margin-left: 8px;
   opacity: 0.3;
 }
 .img4 {
   position: absolute;
   left: 40%;
   max-height: 150px;
-  margin-left: 20px;
+  margin-left: 8px;
 }
 #currencySmall {
   font-size: 12px;
